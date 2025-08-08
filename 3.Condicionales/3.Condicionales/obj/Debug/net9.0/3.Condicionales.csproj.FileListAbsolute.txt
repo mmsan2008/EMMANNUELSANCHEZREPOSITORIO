@@ -1,0 +1,15 @@
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\bin\Debug\net9.0\3.Condicionales.exe
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\bin\Debug\net9.0\3.Condicionales.deps.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\bin\Debug\net9.0\3.Condicionales.runtimeconfig.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\bin\Debug\net9.0\3.Condicionales.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\bin\Debug\net9.0\3.Condicionales.pdb
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\3.Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\3.Condicionales.AssemblyInfoInputs.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\3.Condicionales.AssemblyInfo.cs
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\3.Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\3.Condicionales.sourcelink.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\3.Condicionales.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\refint\3.Condicionales.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\3.Condicionales.pdb
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\3.Condicionales.genruntimeconfig.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\3.Condicionales\3.Condicionales\obj\Debug\net9.0\ref\3.Condicionales.dll
