@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net8.0\5.CondicionalAnidado.exe
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net8.0\5.CondicionalAnidado.deps.json
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net8.0\5.CondicionalAnidado.runtimeconfig.json
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net8.0\5.CondicionalAnidado.dll
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\bin\Debug\net8.0\5.CondicionalAnidado.pdb
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\5.CondicionalAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\5.CondicionalAnidado.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\5.CondicionalAnidado.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\5.CondicionalAnidado.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\5.CondicionalAnidado.sourcelink.json
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\5.CondicionalAnidado.dll
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\refint\5.CondicionalAnidado.dll
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\5.CondicionalAnidado.pdb
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\5.CondicionalAnidado.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\5.CondicionalAnidado\5.CondicionalAnidado\obj\Debug\net8.0\ref\5.CondicionalAnidado.dll
