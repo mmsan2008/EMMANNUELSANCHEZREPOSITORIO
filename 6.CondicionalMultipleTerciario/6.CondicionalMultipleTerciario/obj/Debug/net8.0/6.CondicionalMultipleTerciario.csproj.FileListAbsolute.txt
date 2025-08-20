@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\6.CondicionalMultipleTerciario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\6.CondicionalMultipleTerciario.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\6.CondicionalMultipleTerciario.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\6.CondicionalMultipleTerciario.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\6.CondicionalMultipleTerciario.sourcelink.json
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net8.0\6.CondicionalMultipleTerciario.exe
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net8.0\6.CondicionalMultipleTerciario.deps.json
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net8.0\6.CondicionalMultipleTerciario.runtimeconfig.json
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net8.0\6.CondicionalMultipleTerciario.dll
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\bin\Debug\net8.0\6.CondicionalMultipleTerciario.pdb
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\6.CondicionalMultipleTerciario.dll
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\refint\6.CondicionalMultipleTerciario.dll
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\6.CondicionalMultipleTerciario.pdb
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\6.CondicionalMultipleTerciario.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\emmanuelfp\EMMANNUELSANCHEZREPOSITORIO\6.CondicionalMultipleTerciario\6.CondicionalMultipleTerciario\obj\Debug\net8.0\ref\6.CondicionalMultipleTerciario.dll
