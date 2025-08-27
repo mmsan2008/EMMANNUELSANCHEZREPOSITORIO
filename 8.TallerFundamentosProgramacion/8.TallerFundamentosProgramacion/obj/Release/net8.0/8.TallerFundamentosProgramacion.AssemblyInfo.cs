@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("8.TallerFundamentosProgramacion")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eb4bcb6311bcc76ea1859ddf9b90da2d24ba704")]
 [assembly: System.Reflection.AssemblyProductAttribute("8.TallerFundamentosProgramacion")]
