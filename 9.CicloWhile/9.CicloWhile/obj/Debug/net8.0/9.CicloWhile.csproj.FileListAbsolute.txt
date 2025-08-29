@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\bin\Debug\net8.0\9.CicloWhile.exe
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\bin\Debug\net8.0\9.CicloWhile.deps.json
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\bin\Debug\net8.0\9.CicloWhile.runtimeconfig.json
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\bin\Debug\net8.0\9.CicloWhile.dll
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\bin\Debug\net8.0\9.CicloWhile.pdb
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\9.CicloWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\9.CicloWhile.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\9.CicloWhile.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\9.CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\9.CicloWhile.sourcelink.json
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\9.CicloWhile.dll
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\refint\9.CicloWhile.dll
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\9.CicloWhile.pdb
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\9.CicloWhile.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\9.CicloWhile\9.CicloWhile\obj\Debug\net8.0\ref\9.CicloWhile.dll
