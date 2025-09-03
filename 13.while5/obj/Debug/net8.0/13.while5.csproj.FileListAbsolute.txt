@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\bin\Debug\net8.0\13.while5.exe
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\bin\Debug\net8.0\13.while5.deps.json
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\bin\Debug\net8.0\13.while5.runtimeconfig.json
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\bin\Debug\net8.0\13.while5.dll
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\bin\Debug\net8.0\13.while5.pdb
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\13.while5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\13.while5.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\13.while5.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\13.while5.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\13.while5.sourcelink.json
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\13.while5.dll
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\refint\13.while5.dll
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\13.while5.pdb
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\13.while5.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\emmanuel.git\EMMANNUELSANCHEZREPOSITORIO\13.while5\obj\Debug\net8.0\ref\13.while5.dll
