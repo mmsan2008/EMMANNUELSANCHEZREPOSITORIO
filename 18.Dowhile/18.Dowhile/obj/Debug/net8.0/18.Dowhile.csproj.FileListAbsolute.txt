@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\bin\Debug\net8.0\18.Dowhile.exe
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\bin\Debug\net8.0\18.Dowhile.deps.json
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\bin\Debug\net8.0\18.Dowhile.runtimeconfig.json
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\bin\Debug\net8.0\18.Dowhile.dll
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\bin\Debug\net8.0\18.Dowhile.pdb
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\18.Dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\18.Dowhile.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\18.Dowhile.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\18.Dowhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\18.Dowhile.sourcelink.json
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\18.Dowhile.dll
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\refint\18.Dowhile.dll
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\18.Dowhile.pdb
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\18.Dowhile.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\Emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\18.Dowhile\18.Dowhile\obj\Debug\net8.0\ref\18.Dowhile.dll
