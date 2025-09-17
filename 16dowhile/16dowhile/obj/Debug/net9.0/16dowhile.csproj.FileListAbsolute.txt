@@ -1,0 +1,15 @@
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\bin\Debug\net9.0\16dowhile.exe
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\bin\Debug\net9.0\16dowhile.deps.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\bin\Debug\net9.0\16dowhile.runtimeconfig.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\bin\Debug\net9.0\16dowhile.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\bin\Debug\net9.0\16dowhile.pdb
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\16dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\16dowhile.AssemblyInfoInputs.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\16dowhile.AssemblyInfo.cs
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\16dowhile.csproj.CoreCompileInputs.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\16dowhile.sourcelink.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\16dowhile.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\refint\16dowhile.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\16dowhile.pdb
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\16dowhile.genruntimeconfig.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\16dowhile\16dowhile\obj\Debug\net9.0\ref\16dowhile.dll
