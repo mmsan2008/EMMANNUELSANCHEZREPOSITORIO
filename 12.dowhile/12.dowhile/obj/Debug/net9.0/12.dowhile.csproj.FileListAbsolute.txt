@@ -1,0 +1,15 @@
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\bin\Debug\net9.0\12.dowhile.exe
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\bin\Debug\net9.0\12.dowhile.deps.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\bin\Debug\net9.0\12.dowhile.runtimeconfig.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\bin\Debug\net9.0\12.dowhile.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\bin\Debug\net9.0\12.dowhile.pdb
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\12.dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\12.dowhile.AssemblyInfoInputs.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\12.dowhile.AssemblyInfo.cs
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\12.dowhile.csproj.CoreCompileInputs.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\12.dowhile.sourcelink.json
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\12.dowhile.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\refint\12.dowhile.dll
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\12.dowhile.pdb
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\12.dowhile.genruntimeconfig.cache
+C:\Users\ccsan\Desktop\EMMANNUELSANCHEZREPOSITORIO\EMMANNUELSANCHEZREPOSITORIO\12.dowhile\12.dowhile\obj\Debug\net9.0\ref\12.dowhile.dll
