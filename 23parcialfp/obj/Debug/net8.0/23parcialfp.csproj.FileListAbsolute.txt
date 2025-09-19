@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\bin\Debug\net8.0\23parcialfp.exe
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\bin\Debug\net8.0\23parcialfp.deps.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\bin\Debug\net8.0\23parcialfp.runtimeconfig.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\bin\Debug\net8.0\23parcialfp.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\bin\Debug\net8.0\23parcialfp.pdb
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\23parcialfp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\23parcialfp.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\23parcialfp.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\23parcialfp.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\23parcialfp.sourcelink.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\23parcialfp.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\refint\23parcialfp.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\23parcialfp.pdb
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\23parcialfp.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23parcialfp\obj\Debug\net8.0\ref\23parcialfp.dll
