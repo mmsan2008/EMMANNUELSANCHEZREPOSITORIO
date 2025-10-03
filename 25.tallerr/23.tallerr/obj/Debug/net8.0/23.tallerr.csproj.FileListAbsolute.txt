@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\bin\Debug\net8.0\23.tallerr.exe
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\bin\Debug\net8.0\23.tallerr.deps.json
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\bin\Debug\net8.0\23.tallerr.runtimeconfig.json
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\bin\Debug\net8.0\23.tallerr.dll
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\bin\Debug\net8.0\23.tallerr.pdb
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\23.tallerr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\23.tallerr.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\23.tallerr.AssemblyInfo.cs
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\23.tallerr.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\23.tallerr.sourcelink.json
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\23.tallerr.dll
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\refint\23.tallerr.dll
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\23.tallerr.pdb
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\23.tallerr.genruntimeconfig.cache
+C:\Users\B09S112est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\23.tallerr\23.tallerr\obj\Debug\net8.0\ref\23.tallerr.dll
