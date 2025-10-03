@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\28.ProgramacionModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\28.ProgramacionModular.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\28.ProgramacionModular.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\28.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\28.ProgramacionModular.sourcelink.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\bin\Debug\net8.0\28.ProgramacionModular.exe
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\bin\Debug\net8.0\28.ProgramacionModular.deps.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\bin\Debug\net8.0\28.ProgramacionModular.runtimeconfig.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\bin\Debug\net8.0\28.ProgramacionModular.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\bin\Debug\net8.0\28.ProgramacionModular.pdb
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\28.ProgramacionModular.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\refint\28.ProgramacionModular.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\28.ProgramacionModular.pdb
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\28.ProgramacionModular.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\28.ProgramacionModular\obj\Debug\net8.0\ref\28.ProgramacionModular.dll
