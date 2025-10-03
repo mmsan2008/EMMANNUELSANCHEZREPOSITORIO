@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\bin\Debug\net8.0\22.taller ciclos.exe
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\bin\Debug\net8.0\22.taller ciclos.deps.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\bin\Debug\net8.0\22.taller ciclos.runtimeconfig.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\bin\Debug\net8.0\22.taller ciclos.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\bin\Debug\net8.0\22.taller ciclos.pdb
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\22.taller ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\22.taller ciclos.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\22.taller ciclos.AssemblyInfo.cs
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\22.taller ciclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\22.taller ciclos.sourcelink.json
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\22.taller ciclos.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\refint\22.taller ciclos.dll
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\22.taller ciclos.pdb
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\22.taller ciclos.genruntimeconfig.cache
+C:\Users\B09S105est\Desktop\emmanuelgit\EMMANNUELSANCHEZREPOSITORIO\22.taller ciclos\obj\Debug\net8.0\ref\22.taller ciclos.dll
